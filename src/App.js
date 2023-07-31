@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import me from '../src/assets/AAC8A38E-3B6C-4C17-8093-3CE28527DB2A.png'
 import resume from '../src/assets/myResume.pdf'
