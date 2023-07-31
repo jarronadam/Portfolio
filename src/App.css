@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 25vmin;
+  pointer-events: hover;
+}
+
+.App-logo:hover { 
+  animation-name: bounce;
+  animation-duration: .9s;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0); /* Starting position and reset after each bounce */
+  }
+  40% {
+    transform: translateY(-30px); /* Bounce up to this position */
+  }
+  60% {
+    transform: translateY(-15px); /* Bounce back to a less height */
+  }
+}
+
+.App-header {
+  background-color: #9ea7b1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font: small-caps bold 24px/1 sans-serif;
+  font-size: calc(10px + 2vmin);
+  color: rgb(248, 246, 246);
+}
+
+.straight {
+ display: flex;
+}
+.App-link {
+  align-items: center;
+  background-color: #9ea7b1;
+  justify-content: center;
+  color: #fcfcfc;
+  margin-right: 30px; /* Add some spacing between the links */
+  pointer-events: hover;
+}
+
+.App-link:hover {
+  animation-name: App-logo-spin;
+  animation-duration: .9s;
+  align-items: center;
+}
+
+.shadow-text {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+  font: small-caps bold 25px/1 sans-serif;
+  align-items: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
