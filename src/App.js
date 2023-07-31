@@ -26,7 +26,6 @@ function App() {
         <a
           className="App-link"
           href="https://www.linkedin.com/in/jarron-douglas-7665571ab/"
-          target="_blank"
           rel="stylesheet"
         >
           <BsLinkedin size={40} />
@@ -34,7 +33,6 @@ function App() {
         <a
           className="App-link"
           href={resume}
-          target="_blank"
           rel="stylesheet"
         >
           <LuNewspaper size={40} />
@@ -42,7 +40,6 @@ function App() {
         <a
           className="App-link"
           href="https://github.com/jarronadam"
-          target="_blank"
           rel="stylesheet"
         >
           <AiFillGithub size={40} />
