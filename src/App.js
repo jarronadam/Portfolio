@@ -16,11 +16,7 @@ function App() {
           Welcome To My Homepage!
         </p>
         <p className='shadow-text'>
-        I'm excited to share with you my personal programming projects, delve into my tech interests, and connect with like-minded individuals in the industry.<br></br><br></br>
-        Here, you'll find a collection of my coding ventures, ranging from web development to news in cyber security. I'm passionate about pushing the boundaries of technology and constantly striving to learn and grow as a developer.
-        Whether you're a fellow programmer, an enthusiast of cutting-edge tech, or simply someone interested in collaborating on exciting projects, I invite you to explore my work and join me on this journey.<br></br><br></br>
-        Feel free to reach out and connect with me professionally. I'm always open to engaging in new ventures, discussing ideas, and embracing opportunities to collaborate with talented individuals in the tech community.
-        <br></br><br></br>Thank you for visiting, and I look forward to connecting with you soon!
+        
       </p>
       <h1 className='straight'>
         <a
