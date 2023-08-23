@@ -16,7 +16,7 @@ function App() {
           Welcome To My Homepage!
         </p>
         <p className='shadow-text'>
-        Im excited to show you all my work as a upcoming computer science graduate and to put together a space for my work to be displayed and for those with similar interest to collaborate on future projects! <br></br><br></br>I am currently a senior attending the College of New Jersey with strong interest in both cyber security and Software engineering. <br></br>Thank for coming and I hope to hear from you soon! 
+        Im excited to show you all my work as a upcoming computer science graduate and to put together a space for my work to be displayed and for those with similar interest to collaborate on future projects! <br></br><br></br>I am currently a senior attending the College of New Jersey with strong interest in both cyber security and Software engineering. <br></br>Thank for visit and I hope to hear from you soon! 
       </p>
       <h1 className='straight'>
         <a
