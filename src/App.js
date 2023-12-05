@@ -4,7 +4,6 @@ import resume from '../src/assets/myResume.pdf'
 import { AiFillGithub } from 'react-icons/ai'
 import { LuNewspaper } from 'react-icons/lu'
 import { BsLinkedin } from 'react-icons/bs'
-import { gif } from './assets/f666ce7b21152768e565ce0b0a3ce1ca.gif'
 
 function App() {
   return (
