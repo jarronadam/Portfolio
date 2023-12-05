@@ -12,7 +12,7 @@ function App() {
       <header className="App-header">
         <img src={me} className="App-logo" alt="logo" />
         <p className='shadow-text'>
-          Jarron Douglas<br></br>
+           Douglas<br></br>
           Welcome To My Homepage!
         </p>
         <p className='shadow-text'>
