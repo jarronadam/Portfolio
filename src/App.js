@@ -14,39 +14,39 @@ function App() {
         </ul>
       </nav>
       <body>
-      <div className="App-header"></div>
-      <div class ="content">
-        <img src={me} className="App-logo" alt="logo" />
-        <p className='shadow-text'>
-          Jarron Douglas<br></br>
-          Welcome To My Portfolio!
-        </p>
-        <p className='shadow-text'>
-          Im excited to show you all my work as a upcoming computer science graduate and to put together a space for my work to be displayed and for those with similar interest to collaborate on future projects! <br></br><br></br>I am currently a senior attending the College of New Jersey with strong interest in both cyber security and Software engineering. <br></br>Thank for visit and I hope to hear from you soon!
-        </p>
-        <h2 className='straight'>
-          <a
-            className="App-link"
-            href="https://www.linkedin.com/in/jarron-douglas-7665571ab/"
-            rel="stylesheet"
-          >
-            <BsLinkedin size={40} />
-          </a>
-          <a
-            className="App-link"
-            href={resume}
-            rel="stylesheet"
-          >
-            <LuNewspaper size={40} />
-          </a>
-          <a
-            className="App-link"
-            href="https://github.com/jarronadam"
-            rel="stylesheet"
-          >
-            <AiFillGithub size={40} />
-          </a>
-        </h2>
+        <div className="App-header"></div>
+        <div class="content">
+          <img src={me} className="App-logo" alt="logo" />
+          <p className='shadow-text'>
+            Jarron Douglas<br></br>
+            Welcome To My Portfolio!
+          </p>
+          <p className='shadow-text'>
+            Im excited to show you all my work as a upcoming computer science graduate and to put together a space for my work to be displayed and for those with similar interest to collaborate on future projects! <br></br><br></br>I am currently a senior attending the College of New Jersey with strong interest in both cyber security and Software engineering. <br></br>Thank for visit and I hope to hear from you soon!
+          </p>
+          <h2 className='straight'>
+            <a
+              className="App-link"
+              href="https://www.linkedin.com/in/jarron-douglas-7665571ab/"
+              rel="stylesheet"
+            >
+              <BsLinkedin size={40} />
+            </a>
+            <a
+              className="App-link"
+              href={resume}
+              rel="stylesheet"
+            >
+              <LuNewspaper size={40} />
+            </a>
+            <a
+              className="App-link"
+              href="https://github.com/jarronadam"
+              rel="stylesheet"
+            >
+              <AiFillGithub size={40} />
+            </a>
+          </h2>
         </div>
       </body>
     </div >
