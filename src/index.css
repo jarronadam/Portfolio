@@ -15,6 +15,10 @@ code {
   background-color: #c4bbbb;
   overflow: hidden;
   opacity: 0.2;
+  position: fixed; /* Add this line */
+  top: 0; /* Align to the top */
+  width: 100%; /* Stretch across the full width of the viewport */
+  z-index: 100; /* Ensure it stays above other content */
 }
 
 #navbar ul {
@@ -44,6 +48,7 @@ body, html {
   margin: 0;
   padding: 0;
   height: 100%;
+  margin-bottom: 320px; /* Adjust the value as needed */
 }
 
 #gifBackground {

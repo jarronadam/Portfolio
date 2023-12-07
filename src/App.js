@@ -11,6 +11,7 @@ function App() {
       <nav id="navbar">
         <ul>
           <li><a href="#home">Home</a></li>
+          <li><a href="#home">About Me</a></li>
         </ul>
       </nav>
       <body>
