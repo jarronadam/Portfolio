@@ -1,6 +1,6 @@
 import './App.css';
 import me from '../src/assets/AAC8A38E-3B6C-4C17-8093-3CE28527DB2A.png'
-import resume from '../src/assets/myResume.pdf'
+import resume from '../src/assets/Resume2024.pdf'
 import { AiFillGithub } from 'react-icons/ai'
 import { LuNewspaper } from 'react-icons/lu'
 import { BsLinkedin } from 'react-icons/bs'
